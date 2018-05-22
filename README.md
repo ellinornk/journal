@@ -1,3 +1,3 @@
-###Journal
-- Ellinor Nilsson Kaufeldt
-https://github.com/ellinornk/journal
+# Journal
+Name: Ellinor Nilsson Kaufeldt </br>
+[Repository](https://github.com/ellinornk/journal)
